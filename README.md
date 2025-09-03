@@ -1,2 +1,8 @@
-# m3-django-demo
-Django project with M3 framework and Objectpack for CRUD operations
+# M3 Django Demo Project
+
+Проект демонстрирует интеграцию Django с M3 framework и Objectpack для CRUD операций.
+
+## Установка
+
+```bash
+pip install m3-django-demo
